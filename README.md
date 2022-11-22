@@ -4,13 +4,13 @@
 https://console.firebase.google.com/u/1/project/smart-fridge-c19d3/overview
 
 ## rouls 
-ariel - backend
+ariel - design
 
-eran - database
+eran - administration + database + backend
 
-ofir - administration + database
+ofir - administration + database + backend
 
-afik - design
+afik - administration + database + backend
 
 list in shopping list:
 https://www.youtube.com/watch?v=7yZngVxaZDM
